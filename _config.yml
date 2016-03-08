@@ -1,0 +1,28 @@
+name: wlcenter
+favicon: null
+layout_spectrum: 0.2569441800005734
+typography_spectrum: 0.33674634131602943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.43524328572675586
+  lightness: 0.2654693122021854
+  saturation: 0.819924962008372
+  rhythmicContrast: 0.3949013452511281
+purpose: []

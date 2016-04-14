@@ -3,19 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Equipping leaders to engage the 7 spheres of society
-datePublished: '2016-03-08T17:45:36.220Z'
-dateModified: '2016-03-08T17:23:38.404Z'
+datePublished: '2016-04-14T20:33:44.110Z'
+dateModified: '2016-04-14T20:33:26.073Z'
 title: School of Biblical Christian Worldview
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-03-08-school-of-biblical-christian-worldview.md
 published: true
 url: school-of-biblical-christian-worldview/index.html
